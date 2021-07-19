@@ -4,4 +4,4 @@
 ####Para realizar utilizar o codigo é necessário clonar o projeto e instalar a biblioteca do Speedtest-cli:
 `pip install speedtest-cli`
 
-####Após isso executar o codigo, caso queira o executável, também se encontra no repositorio. 
+###Após isso executar o codigo, caso queira o executável, também se encontra no repositorio. 
